@@ -15,7 +15,7 @@ NC='\033[0m' # No Color
 
 # Configuration
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-REPO_ROOT="$DIR/.."
+REPO_ROOT="$SCRIPT_DIR/.."
 INFRA_DIR="$REPO_ROOT/.azd-setup/infra"
 CONFIG_FILE="$SCRIPT_DIR/0-additional-models.json"
 MAIN_BICEP="$INFRA_DIR/main.bicep"

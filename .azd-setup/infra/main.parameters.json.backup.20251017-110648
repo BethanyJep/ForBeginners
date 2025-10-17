@@ -95,7 +95,7 @@
     "embedDeploymentCapacity": {
       "value": "${AZURE_AI_EMBED_DEPLOYMENT_CAPACITY=50}"
     },
-    "embeddingDeploymentDimensions": {
+        "embeddingDeploymentDimensions": {
       "value": "${AZURE_AI_EMBED_DIMENSIONS=100}"
     },
     "apiAppExists": {
@@ -115,9 +115,6 @@
     },
     "templateValidationMode": {
       "value": "${TEMPLATE_VALIDATION_MODE=false}"
-    },
-    "additionalModelDeployments": {
-      "value": "${ADDITIONAL_MODEL_DEPLOYMENTS=[]}"
     }
   }
 }
