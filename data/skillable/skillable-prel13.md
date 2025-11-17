@@ -13,7 +13,7 @@ This is a **4-hour** instructor-led workshop session at Microsoft Ignite 2025. B
 
 The lab guide and code exercises are available in the repository above. To get started, open a new private browser in your workstation. :
 
-1. To get started, head over tho ++https://aka.ms/ignite25/PREL13++
+1. To get started, head over to ++https://aka.ms/ignite25/PREL13++
 1. Log into GitHub with a personal profile - create one if needed.
 1. Wait until the Codespace finishes initializing. When the VS Code window shows an open terminal and the **post-create tasks stop running** (no more setup logs appearing), then proceed.
 1. Run this command in terminal - ++mkdocs serve > /dev/null 2>&1 &++
@@ -27,7 +27,7 @@ You will be assigned a temporary Azure subscription for this lab. Verify that th
 
 - **Username:** ++@lab.CloudPortalCredential(User1).Username++
 - **Password:** ++@lab.CloudPortalCredential(User1).Password++
-- **TAP Token:** ++@lab.CloudPortalCredential(User1).AccessToken++
+- **Temporary Access Pass (TAP) Token:** ++@lab.CloudPortalCredential(User1).AccessToken++
 
 ## 3. Skillable VM Credentials
 
