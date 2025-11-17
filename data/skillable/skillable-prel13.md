@@ -15,7 +15,7 @@ The lab guide and code exercises are available in the repository above. To get s
 
 1. To get started, head over tho ++https://aka.ms/ignite25/PREL13++
 1. Log into GitHub with a personal profile - create one if needed.
-1. Wait till Codespaces is ready - you should see an active VS Code terminal.
+1. Wait until the Codespace finishes initializing. When the VS Code window shows an open terminal and the **post-create tasks stop running** (no more setup logs appearing), then proceed.
 1. Run this command in terminal - ++mkdocs serve > /dev/null 2>&1 &++
 1. Confirm "open in browser" pop-up - you will see an interactive guide in the browser!
 1. Leave this browser open and follow the instructions in that guide.
